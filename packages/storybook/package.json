@@ -21,7 +21,7 @@
     "@babel/core": "7.19.1",
     "@etchteam/storybook-addon-status": "4.2.1",
     "@storybook/addon-actions": "6.5.12",
-    "@storybook/addon-a11y": "6.5.12",
+    "@storybook/addon-a11y": "6.5.15",
     "@storybook/addon-docs": "6.5.12",
     "@storybook/addon-interactions": "6.5.12",
     "@storybook/addon-links": "6.5.12",
